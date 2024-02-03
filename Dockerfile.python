@@ -1,0 +1,13 @@
+# Dockerfile.python
+
+# Используем базовый образ Python
+FROM python:3.9
+
+# Устанавливаем Flask
+RUN pip install Flask
+
+# Копируем исходный код приложения в контейнер
+COPY main.py /app/main.py
+
+# Указываем команду, которая будет запущена при старте контейнера
+CMD ["python", "main.py"]
