@@ -10,12 +10,10 @@ services:
         ipv4_address: 172.20.0.5
     restart: always
     environment:
-      - MYSQL_HOST=db
-      # Добавьте другие переменные окружения по необходимости
-    depends_on:
-      - db
-    volumes:
-      - ./main.py:/app/main.py:ro  # Монтирование файла main.py внутрь контейнера
+      - DB_HOST=db
+      - DB_USER=user
+      - DB_PASSWORD=password
+      - DB_NAME=example
 
   db:
     image: mysql:8
@@ -24,10 +22,23 @@ services:
         ipv4_address: 172.20.0.10
     restart: on-failure
     environment:
-      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
-      - MYSQL_DATABASE=${MYSQL_DATABASE}
-      - MYSQL_USER=${MYSQL_USER}
-      - MYSQL_PASSWORD=${MYSQL_PASSWORD}
+      - MYSQL_ROOT_PASSWORD=root_password
+      - MYSQL_DATABASE=example
+      - MYSQL_USER=user
+      - MYSQL_PASSWORD=password
+    volumes:
+      - db_data:/var/lib/mysql
+
+  db-client:
+    image: mysql:8
+    command: ["sh", "-c", "sleep 10 && mysql -hdb -uroot -proot_password example -e 'show databases; use example; show tables; SELECT * from requests LIMIT 10;'"]
+    depends_on:
+      - db
+    networks:
+      backend:
+        aliases:
+          - db-client
+    restart: "no"
 
 networks:
   backend:
@@ -36,3 +47,6 @@ networks:
       driver: default
       config:
         - subnet: 172.20.0.0/16
+
+volumes:
+  db_data:
