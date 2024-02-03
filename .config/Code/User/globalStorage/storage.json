@@ -1195,12 +1195,12 @@
                         "label": "Показать все команды"
                     },
                     {
-                        "id": "workbench.action.showInteractivePlayground",
-                        "label": "Интер&&активная среда редактора"
-                    },
-                    {
                         "id": "workbench.action.openDocumentationUrl",
                         "label": "&&Документация"
+                    },
+                    {
+                        "id": "workbench.action.showInteractivePlayground",
+                        "label": "Интер&&активная среда редактора"
                     },
                     {
                         "id": "update.showCurrentReleaseNotes",

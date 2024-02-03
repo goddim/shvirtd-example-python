@@ -1,0 +1,480 @@
+2024-02-03 19:54:12.024 [info] Extension host with pid 4378 started
+2024-02-03 19:54:12.025 [info] Skipping acquiring lock for /home/goddim/.config/Code/User/workspaceStorage/83940e97ae0d7653f86ac1db2041055b.
+2024-02-03 19:54:12.118 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-03 19:54:12.330 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-03 19:54:12.331 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-03 19:54:12.640 [info] Eager extensions activated
+2024-02-03 19:54:13.006 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-03 19:54:13.009 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-03 19:54:13.782 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-03 19:54:13.809 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.809 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.809 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.809 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.809 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.809 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.809 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:13.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.814 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.823 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.833 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.835 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.837 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.839 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.846 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.848 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.854 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.857 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.859 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.861 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.863 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.864 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.866 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.868 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.871 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.875 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.878 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.880 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.881 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.908 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.918 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.920 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.921 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.923 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.937 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.938 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.940 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.941 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.942 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.943 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.945 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:14.946 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/150/usr/share/code/resources/app/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at Process.onexit (node:internal/child_process:291:12)
+2024-02-03 19:54:19.154 [warning] [Decorations] CAPPING events from decorations provider vscode.git 254
+2024-02-03 19:54:19.537 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+2024-02-03 19:54:19.607 [warning] Using default string since no string found in i18n bundle that has the key: Learn more
+2024-02-03 19:54:19.623 [warning] Using default string since no string found in i18n bundle that has the key: Yes
+2024-02-03 19:54:19.623 [warning] Using default string since no string found in i18n bundle that has the key: No
+2024-02-03 19:54:19.623 [warning] Using default string since no string found in i18n bundle that has the key: Cancel
+2024-02-03 19:54:19.623 [warning] Using default string since no string found in i18n bundle that has the key: Delete
+2024-02-03 19:54:19.623 [warning] Using default string since no string found in i18n bundle that has the key: Don't warn again
+2024-02-03 19:54:19.623 [warning] Using default string since no string found in i18n bundle that has the key: Skip for now
+2024-02-03 19:54:19.623 [warning] Using default string since no string found in i18n bundle that has the key: Upload
+2024-02-03 19:54:19.623 [warning] Using default string since no string found in i18n bundle that has the key: Always upload
+2024-02-03 19:54:19.623 [warning] Using default string since no string found in i18n bundle that has the key: Don't upload
+2024-02-03 19:54:19.623 [warning] Using default string since no string found in i18n bundle that has the key: Report an issue
+2024-02-03 19:54:19.626 [warning] Using default string since no string found in i18n bundle that has the key: "registerUIExtensionVariables" must be called before using the vscode-azureextensionui package.
+2024-02-03 19:54:19.626 [warning] Using default string since no string found in i18n bundle that has the key: This operation is not supported.
+2024-02-03 19:54:19.642 [warning] Using default string since no string found in i18n bundle that has the key: Load More...
+2024-02-03 19:54:19.663 [warning] Using default string since no string found in i18n bundle that has the key: Use a Dockerfile
+2024-02-03 19:54:19.663 [warning] Using default string since no string found in i18n bundle that has the key: Use .NET SDK
+2024-02-03 19:54:19.663 [warning] Using default string since no string found in i18n bundle that has the key: No grouping
+2024-02-03 19:54:19.663 [warning] Using default string since no string found in i18n bundle that has the key: Sort by newest
+2024-02-03 19:54:19.663 [warning] Using default string since no string found in i18n bundle that has the key: Sort alphabetically by label
+2024-02-03 19:54:19.664 [warning] Using default string since no string found in i18n bundle that has the key: Value used to associate containers launched by a 'docker-compose up' command
+2024-02-03 19:54:19.664 [warning] Using default string since no string found in i18n bundle that has the key: Individual Containers
+2024-02-03 19:54:19.664 [warning] Using default string since no string found in i18n bundle that has the key: Others
+2024-02-03 19:54:19.664 [warning] Using default string since no string found in i18n bundle that has the key: Choose a project file
+2024-02-03 19:54:19.664 [warning] Using default string since no string found in i18n bundle that has the key: No C# or F# project files were found in the workspace.
+2024-02-03 19:54:19.664 [warning] Using default string since no string found in i18n bundle that has the key: Choose a package.json file
+2024-02-03 19:54:19.664 [warning] Using default string since no string found in i18n bundle that has the key: No package.json files were found in the workspace.
+2024-02-03 19:54:19.665 [warning] Using default string since no string found in i18n bundle that has the key: Overwrite File
+2024-02-03 19:54:19.665 [warning] Using default string since no string found in i18n bundle that has the key: Skip File
+2024-02-03 19:54:19.665 [warning] Using default string since no string found in i18n bundle that has the key: Cancel
+2024-02-03 19:54:19.668 [warning] Using default string since no string found in i18n bundle that has the key: Redis is an open source key-value store that functions as a data structure server.
+2024-02-03 19:54:19.668 [warning] Using default string since no string found in i18n bundle that has the key: Ubuntu is a Debian-based Linux operating system based on free software.
+2024-02-03 19:54:19.668 [warning] Using default string since no string found in i18n bundle that has the key: The WordPress rich content management system can utilize plugins, widgets, and themes.
+2024-02-03 19:54:19.668 [warning] Using default string since no string found in i18n bundle that has the key: MySQL is a widely used, open-source relational database management system (RDBMS).
+2024-02-03 19:54:19.668 [warning] Using default string since no string found in i18n bundle that has the key: MongoDB document databases provide high availability and easy scalability.
+2024-02-03 19:54:19.668 [warning] Using default string since no string found in i18n bundle that has the key: The official build of CentOS.
+2024-02-03 19:54:19.668 [warning] Using default string since no string found in i18n bundle that has the key: Node.js is a JavaScript-based platform for server-side and networking applications.
+2024-02-03 19:54:19.668 [warning] Using default string since no string found in i18n bundle that has the key: Official build of Nginx.
+2024-02-03 19:54:19.668 [warning] Using default string since no string found in i18n bundle that has the key: The PostgreSQL object-relational database system provides reliability and data integrity.
+2024-02-03 19:54:19.668 [warning] Using default string since no string found in i18n bundle that has the key: ASP.NET is an open source server-side Web application framework
+2024-02-03 19:54:19.669 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-03 19:54:19.814 [warning] Using default string since no string found in i18n bundle that has the key: Containers
+2024-02-03 19:54:19.814 [warning] Using default string since no string found in i18n bundle that has the key: Configure containers explorer
+2024-02-03 19:54:19.816 [warning] Using default string since no string found in i18n bundle that has the key: Networks
+2024-02-03 19:54:19.816 [warning] Using default string since no string found in i18n bundle that has the key: Configure networks explorer
+2024-02-03 19:54:19.817 [warning] Using default string since no string found in i18n bundle that has the key: Images
+2024-02-03 19:54:19.817 [warning] Using default string since no string found in i18n bundle that has the key: Configure images explorer
+2024-02-03 19:54:19.817 [warning] Using default string since no string found in i18n bundle that has the key: Sort by image size
+2024-02-03 19:54:19.818 [warning] Using default string since no string found in i18n bundle that has the key: Generic Registry V2
+2024-02-03 19:54:19.818 [warning] Using default string since no string found in i18n bundle that has the key: Azure
+2024-02-03 19:54:19.818 [warning] Using default string since no string found in i18n bundle that has the key: Azure Container Registry
+2024-02-03 19:54:19.818 [warning] Using default string since no string found in i18n bundle that has the key: Docker Hub
+2024-02-03 19:54:19.818 [warning] Using default string since no string found in i18n bundle that has the key: GitHub
+2024-02-03 19:54:19.818 [warning] Using default string since no string found in i18n bundle that has the key: GitHub Container Registry
+2024-02-03 19:54:19.819 [warning] Using default string since no string found in i18n bundle that has the key: Volumes
+2024-02-03 19:54:19.819 [warning] Using default string since no string found in i18n bundle that has the key: Configure volumes explorer
+2024-02-03 19:54:19.833 [warning] Using default string since no string found in i18n bundle that has the key: Contexts
+2024-02-03 19:54:19.833 [warning] Using default string since no string found in i18n bundle that has the key: Configure Docker Contexts Explorer
+2024-02-03 19:54:24.315 [warning] [Decorations] CAPPING events from decorations provider vscode.git 256
+2024-02-03 19:54:27.964 [warning] Using default string since no string found in i18n bundle that has the key: There are no staged changes to commit.
+
+Would you like to stage all your changes and commit them directly?
