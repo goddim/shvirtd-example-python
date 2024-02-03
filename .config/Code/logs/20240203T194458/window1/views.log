@@ -1,0 +1,16 @@
+2024-02-03 19:44:59.329 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-02-03 19:44:59.329 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-02-03 19:44:59.329 [info] Added views:terminal in terminal
+2024-02-03 19:44:59.329 [info] Added views:outline in workbench.view.explorer
+2024-02-03 19:44:59.329 [info] Added views:workbench.scm in workbench.view.scm
+2024-02-03 19:44:59.329 [info] Added views:workbench.view.search in workbench.view.search
+2024-02-03 19:44:59.329 [info] Added views:timeline in workbench.view.explorer
+2024-02-03 19:44:59.329 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2024-02-03 19:44:59.911 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-02-03 19:45:01.186 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-02-03 19:45:01.292 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-02-03 19:45:59.251 [info] Added views:workbench.views.extensions.installed,workbench.views.extensions.popular,extensions.recommendedList in workbench.view.extensions
+2024-02-03 19:45:59.256 [info] Removed views:workbench.views.extensions.popular from workbench.view.extensions
+2024-02-03 19:45:59.879 [info] Removed views:extensions.recommendedList,workbench.views.extensions.installed from workbench.view.extensions
+2024-02-03 19:45:59.891 [info] Added views:workbench.views.extensions.marketplace in workbench.view.extensions
+2024-02-03 19:46:06.545 [info] Added views:dockerContainers,dockerImages,dockerRegistries,dockerNetworks,dockerVolumes,vscode-docker.views.dockerContexts,vscode-docker.views.help in workbench.view.extension.dockerView

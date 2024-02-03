@@ -1,0 +1,2 @@
+2024-02-03 19:45:34.251 [error] browser #1: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST XHR timeout: undefinedms
+2024-02-03 19:46:00.881 [error] browser #7: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
