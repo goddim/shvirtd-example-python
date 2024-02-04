@@ -26,7 +26,6 @@ services:
       MYSQL_DATABASE: ${MYSQL_DATABASE}
       MYSQL_USER: ${MYSQL_USER}
       MYSQL_PASSWORD: ${MYSQL_PASSWORD}
-    command: ["sh", "-c", "mysql -uroot -p${MYSQL_ROOT_PASSWORD} -e 'show databases; use ${MYSQL_DATABASE}; show tables; SELECT * from requests LIMIT 10;'"]
 
 networks:
   backend:
