@@ -11,9 +11,9 @@ services:
     restart: always
     environment:
       - DB_HOST=db
-      - DB_USER=user
-      - DB_PASSWORD=password
-      - DB_NAME=example
+      - DB_USER=${MYSQL_USER}
+      - DB_PASSWORD=${MYSQL_PASSWORD}
+      - DB_NAME=${MYSQL_DATABASE}
 
   db:
     image: mysql:8
@@ -22,31 +22,19 @@ services:
         ipv4_address: 172.20.0.10
     restart: on-failure
     environment:
-      - MYSQL_ROOT_PASSWORD=root_password
-      - MYSQL_DATABASE=example
-      - MYSQL_USER=user
-      - MYSQL_PASSWORD=password
-    volumes:
-      - db_data:/var/lib/mysql
-
-  db-client:
-    image: mysql:8
-    command: ["sh", "-c", "sleep 10 && mysql -hdb -uroot -proot_password example -e 'show databases; use example; show tables; SELECT * from requests LIMIT 10;'"]
-    depends_on:
-      - db
-    networks:
-      backend:
-        aliases:
-          - db-client
-    restart: "no"
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+    command: ["sh", "-c", "mysql -uroot -p${MYSQL_ROOT_PASSWORD} -e 'show databases; use ${MYSQL_DATABASE}; show tables; SELECT * from requests LIMIT 10;'"]
 
 networks:
   backend:
     driver: bridge
     ipam:
-      driver: default
       config:
-        - subnet: 172.20.0.0/16
+        - subnet: 172.20.0.0/24
 
-volumes:
-  db_data:
+include:
+  - path: proxy.yaml
+    env_file: .env
